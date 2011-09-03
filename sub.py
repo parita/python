@@ -13,7 +13,6 @@ for filename in listing:
         for x in a:
             if x.isalpha():
                 i=i+x
-        print i
         maxc=''
         for filename in sublist:
             if not('.srt' in filename):
@@ -25,15 +24,12 @@ for filename in listing:
                 for y in b:
                     if y.isalpha():
                         j=j+y
-                print j
                 for z in range(0,min(len(i),len(j))):
                     if(i[z]==j[z]):
                         pcount=pcount+1
-                        print pcount
                 if(pcount>count):
                     count=pcount
                     maxc=b
-                    print maxc
         oldname=path+"\\subtitles\\"+maxc+".srt"
         newname=path+"\\subtitles\\"+a+'.srt'
         print oldname, newname
