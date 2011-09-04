@@ -6,7 +6,10 @@ path = raw_input("PATH:")
 print path
 listing = os.listdir(path)
 for filename in listing:
-    print "current file is: " + filename
-    newname=path+filename[:-4]+'.bmp'
-    print newname
-    os.rename(path+filename,newname)
+    if not ('.jpg' in filename):
+        pass
+    else:
+        print "current file is: " + filename
+        newname=filename.replace('.jpg','.bmp')
+        print newname
+        os.rename(path+'\\'+filename,newname)
