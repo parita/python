@@ -1,45 +1,35 @@
-""" 
-An echo server that uses select to handle multiple clients at a time. 
-Entering any line of input at the terminal will exit the server. 
-""" 
+# TCP server example
+import socket
+import select
 
-import select 
-import socket 
-import sys 
+server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server_socket.bind(("", 5000))
+server_socket.listen(5)
 
-host = '' 
-port = 50000 
-backlog = 5 
-size = 1024 
-server = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
-server.bind((host,port)) 
-server.listen(backlog) 
-input = [server,sys.stdin]
+print "TCPServer Waiting for client on port 5000"
 
-running = 1 
-while running: 
-    inputready,outputready,exceptready = select.select(input,[],[])
-    for s in inputready: 
 
-        if s == server: 
-            # handle the server socket 
-            client, address = server.accept() 
-            input.append(client) 
+data ='init'
+input_ = [server_socket]
+output = [server_socket]
+inputready,outputready,exceptready = select.select(input_,output,[])
+while 1: 
 
-        elif s == sys.stdin: 
-            # handle standard input 
-            junk = sys.stdin.readline()
-            print junk
-            running = 0 
+	print len(inputready) , len(input_), len(outputready), len(output)
+    	for s in inputready:
 
-        else: 
-            # handle all other sockets 
-            data = s.recv(size) 
-            if data: 
-                s.send(data) 
-            else: 
-                s.close() 
-                input.remove(s)
-            
-server.close()
-
+		print s.getsockname()
+        	if s==server_socket:
+            		client, address = server_socket.accept()
+            		print "I got a connection from ", address
+            		input_.append(client)
+        	else:
+			data = s.recv(1024) 
+            		if data:
+                		s.send(data)
+                		print 'received:',data
+            		else:
+                		s.close() 
+                		input_.remove(s)
+				print "Mistake idhar hai kya ?"
+    	inputready,outputready,exceptready = select.select(input_,output,[])
