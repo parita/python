@@ -12,9 +12,11 @@ print "TCPServer Waiting for client on port 5000"
 data ='initialised...'
 input_ = [server_socket]
 output = [server_socket]
-inputready,outputready,exceptready = select.select(input_,output,[])
-print len(inputready) , len(input_), len(outputready), len(output)
-while 1: 
+
+while 1:
+        inputready,outputready,exceptready = select.select(input_,output,[])
+        print len(inputready) , len(input_), len(outputready), len(output)
+
         for s in inputready:
                 if s==server_socket:
                         client, address = server_socket.accept()
@@ -23,7 +25,7 @@ while 1:
             
                 else:
                         if data:
-                                s.send(data)
+                            s.send(data)
                         data=s.recv(1024)
                         print "received:",data
                         if data:
@@ -31,8 +33,6 @@ while 1:
                                 break;
                         else:
                                 input_.remove(s)
-                inputready,outputready,exceptready = select.select(input_,output,[])
-                print len(inputready) , len(input_), len(outputready), len(output)
         inputready,outputready,exceptready = select.select(input_,output,[])
         print len(inputready) , len(input_), len(outputready), len(output)
         for s in outputready:
@@ -48,5 +48,6 @@ while 1:
                                 s.close()
                 inputready,outputready,exceptready = select.select(input_,output,[])
                 print len(inputready) , len(input_), len(outputready), len(output)
+        data=''
    
     
