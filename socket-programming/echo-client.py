@@ -12,7 +12,7 @@ data=''
 while 1:
 	# read from keyboard
     	if data:
-                print 'Received:',data.'%'   
+                print 'Received:',data,'%'   
         else:
                 data = raw_input("Data:")
                 if data:
