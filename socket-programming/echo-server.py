@@ -8,8 +8,7 @@ server_socket.listen(5)
 
 print "TCPServer Waiting for client on port 5000"
 
-
-data ='init'
+data =''
 input_ = [server_socket]
 output = [server_socket]
 inputready,outputready,exceptready = select.select(input_,output,[])
