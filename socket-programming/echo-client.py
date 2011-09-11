@@ -11,16 +11,13 @@ print '%'
 data=''
 while 1:
         # read from keyboard
-        if not data:
-                data=raw_input("Data:")
+        data=raw_input("Data:")
+        if data:
+                client.send(data)
+                print 'Sent:',data,'%'
+                data=''
+        
+                data=client.recv(size)
                 if data:
-                        client.send(data)
-                        print 'Sent:',data,'%'
-                        data=''
-                        data=client.recv(size)
                         print 'Received:',data,'%'
-                        data=''
-        else:
-                print 'Received:',data,'%' 
-
 client.close()
