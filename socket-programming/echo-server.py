@@ -24,7 +24,7 @@ while 1:
                         input_.append(client)                           
                         output.append(client)                           
                 else:                                                   
-                        data=s.recv(1024)    
+                        data=s.recv(1024)
                         if data:                                        
                                 print "received:",data
                                 break;
