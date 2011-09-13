@@ -9,15 +9,18 @@ client.connect((host,port))
 print client.getsockname()	
 print '%'
 data=''
+name=''
 while 1:
         # read from keyboard
+        while not name:
+                name=raw_input("Name:")
+                client.send(name)
         data=raw_input("Data:")
         if data:
                 client.send(data)
-                print 'Sent:',data,'%'
                 data=''
         
                 data=client.recv(size)
                 if data:
-                        print 'Received:',data,'%'
+                        print data,'%'
 client.close()
