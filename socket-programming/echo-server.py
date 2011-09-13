@@ -20,9 +20,8 @@ while 1:
                 if s==server_socket:            
                         client, address = server_socket.accept()        
                         print "I got a connection from ", address
-                        nick=client.recv(1024)
-                        name[client]=nick
-                        print 'name:',nick
+                        name[client]=client.recv(1024)
+                        print 'name:',name[client]
                         input_.append(client)                           
                         output.append(client)                           
                 else:
