@@ -1,0 +1,16 @@
+MULTIPLE CLIENT CHAT
+
+What it does?
+Ever thought of chatting with your roommates while you were in the same room without using internet? Well, that is what this code does.
+
+What are you expected to do?
+So, decide who all amongst you wants to chat and connect all your machines with LAN cable. The more, the merrier! All you got to do now is choose who’d like to be the server amongst you and your roommates(sorry, there can be only one here). And yeah, you can still be a client and catch your friends bitching about you. So, the user acting as server is expected to run the code for the server before the clients run the code for the clients on theirs.
+	So, when this is done, just chat.
+Note: You are expected to have installed python in your respective machines. If you haven’t, you can find it here: http://python.org/download/
+
+Features I tried to include:
+•	Each client can run the ‘client’ code in as many different shells as he/she wants from the same machine and still assume a unique identity for each shell. (if you are thinking you can fool your friends here, you are forgetting that you’re in the same room. You can use a longer wire and be out of your room if you’re so keen on it, though.)
+•	The server is also allowed to be a client by running the ‘client’ code on a different shell.
+•	You can view all what your friends have got to say with their names preceding their message.
+•	The server displays the whole updated on-going conversation.
+
