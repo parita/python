@@ -1,0 +1,69 @@
+Microsoft Windows XP [Version 5.1.2600]
+(C) Copyright 1985-2001 Microsoft Corp.
+
+C:\Documents and Settings\Suresh>cd c:\python27
+
+C:\Python27>python crawl.py
+url:www.justdial.com
+where?mumbai
+what?cable-dealers
+http://www.justdial.com/Mumbai/Cable-dealers
+Cable Dealers  in  Mumbai, India | Justdial
+('http://www.justdial.com/Mumbai/Navkar-Trading-&lt;near&gt;-M-C-F-Garden-Prem-N
+agar-borivali-west/022PXX22-XX22-100717152539-B1N4_TXVtYmFpIENhYmxlIGRlYWxlcnM=_
+BZDET', 'Navkar Trading')
+{'1': ('http://www.justdial.com/Mumbai/Raychem-Rpg-LTD-(H-O)-&lt;near&gt;-Worli-
+New/022PXX22-XX22-000745428444-Q3Y6_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'Rayche
+m Rpg LTD (H O)')}
+['http://www.justdial.com/Mumbai/Navkar-Trading-&lt;near&gt;-M-C-F-Garden-Prem-N
+agar-borivali-west/022PXX22-XX22-100717152539-B1N4_TXVtYmFpIENhYmxlIGRlYWxlcnM=_
+BZDET', 'http://www.justdial.com/Mumbai/E-A-Poonawala-&lt;near&gt;-Crawford-Mark
+et-Kalbadevi/022PXX22-XX22-110927130349-C1J4_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET'
+, 'http://www.justdial.com/Mumbai/Kenter-Wires-Cables-&lt;near&gt;-Hallav-Pool--
+Kurla-West/022P1969007_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial
+.com/Mumbai/Delight-Electro-Traders-&lt;near&gt;-Joshiwadi-Kalbadevi/022PW000493
+_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Shreeji-El
+ectric-Corporation-&lt;near&gt;-Pathak-Wadi-Lohar-Chawl-89-PRINCESS-STREET/022PX
+X22-XX22-100729212531-N4F2_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.just
+dial.com/Mumbai/Ashapura-Electricals-&lt;near&gt;-Siolim/022PXX22-XX22-111018164
+037-N6D6_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/E-
+A-Poonawala-&lt;near&gt;-Crawford-Market/022PK041602_TXVtYmFpIENhYmxlIGRlYWxlcnM
+=_BZDET', 'http://www.justdial.com/Mumbai/Sagar-Electronics-Dombivili-&lt;near&g
+t;-Opp-Ghanshyam-Mall-dombivli-industrial-area/022PGL02125_TXVtYmFpIENhYmxlIGRlY
+WxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Nitro-Enterprise-&lt;near&gt;-PR
+INCESS-STREET/022P1235388926X1L4D9_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://
+www.justdial.com/Mumbai/Infoline-System-&lt;near&gt;-Opp-Goa-Guest-Houses-Laming
+ton-Road/022PXX22-XX22-091209181927-Q3U6_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'h
+ttp://www.justdial.com/Mumbai/Manglik-Electricals-&lt;near&gt;-Crowford-Market-L
+ohar-Chawl/022PK027762_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial
+.com/Mumbai/Tegh-Cables-PVT-LTD-&lt;near&gt;-J-B-Nagar-Andheri-East/022PZ008530_
+TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Allied-Trad
+ing-Company-&lt;near&gt;-Aarey-Check-Naka-Goregaon-East/022PF002509_TXVtYmFpIENh
+YmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Jyoti-Electricals-Tradi
+ng-Co-&lt;near&gt;-Opp-PMC-Building-Shivaji-Nagar/022PXX20-XX20-111111124051-C8P
+3_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Nagrik-El
+ectric-Corporation-&lt;near&gt;-Cooper-Hospital-Irla-Vile-Parle-West/022P650317_
+TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Vashi-Elect
+ricals-Pvt-Ltd-&lt;near&gt;-MIDC-Thurbe/022P601990_TXVtYmFpIENhYmxlIGRlYWxlcnM=_
+BZDET', 'http://www.justdial.com/Mumbai/Reliance-Communication-Limited-&lt;near&
+gt;-MIDC-Andheri-East/022PXX22-XX22-101101154135-V9P7_TXVtYmFpIENhYmxlIGRlYWxlcn
+M=_BZDET', 'http://www.justdial.com/Mumbai/R-R-Kabel-PVT-LTD-&lt;near&gt;-Victor
+ia-Mill-Compound-Worli/022PXX22-XX22-001220746440-N7M8_TXVtYmFpIENhYmxlIGRlYWxlc
+nM=_BZDET', 'http://www.justdial.com/Mumbai/Asian-Electricals-&lt;near&gt;-Lohar
+-Chawl/022P1008075_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com
+/Mumbai/Cable-Corporation-Of-India-Ltd-&lt;near&gt;-Ballard-Estate/022PK049200_T
+XVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Ajit-Cables-
+&lt;near&gt;-Crawford-Market-Lohar-Chawl/022PK034698_TXVtYmFpIENhYmxlIGRlYWxlcnM
+=_BZDET', 'http://www.justdial.com/Mumbai/Anchor-Electricals-Pvt-Ltd-&lt;near&gt
+;-Lower-Parel/022PGE28198_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justd
+ial.com/Mumbai/N-M-Electrical-&lt;near&gt;-Lohar-Chawl/022P5454678_TXVtYmFpIENhY
+mxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Allied-Electrical-Indust
+ries-&lt;near&gt;-Opp-Sndt-College-Malad-West/022PN500635_TXVtYmFpIENhYmxlIGRlYW
+xlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Raychem-Rpg-LTD-(H-O)-&lt;near&gt
+;-Worli-New/022PXX22-XX22-000745428444-Q3Y6_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET']
+
+Traceback (most recent call last):
+  File "crawl.py", line 26, in <module>
+    raise StopIteration
+StopIteration
+
