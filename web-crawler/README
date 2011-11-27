@@ -1,3 +1,10 @@
-Contains web-crawler code to fetch the contact information of all the companies belonging to a category.
-This code has been tried only for the site:"http://www.justdial.com".
- 
+Contains web-crawler code to make a excel database from the contact information of all the companies belonging to a category.
+This code has been tested only for the site:"http://www.justdial.com".
+
+Test:
+Input:
+url=www.justdial.com
+where?mumbai
+what?cable-dealers<or>escalator-dealers
+
+Output files: cable-dealers.xls, escalator-dealers.xls
