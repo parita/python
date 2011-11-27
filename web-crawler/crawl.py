@@ -1,65 +1,126 @@
 import re
 import urllib2
-import urlparse
-listing=raw_input("url:")
-where=raw_input("where?")
-what=raw_input("what?")
+from BeautifulSoup import BeautifulSoup
 
-if(listing.endswith('/')):
-    if(listing.startswith('w')):
-        list="http://"+listing+where.capitalize()+'/'+what.capitalize()
+def get_start_url(listing):
+    if(listing.endswith('/')):
+        if(listing.startswith('w')):
+            list="http://"+listing+where.capitalize()+'/'+what.capitalize()
+        else:
+            list=listing+where.capitalize()+'/'+what.capitalize()
     else:
-        list=listing+where.capitalize()+'/'+what.capitalize()
-else:
-    list="http://"+listing+'/'+where.capitalize()+'/'+what.capitalize()
+        list="http://"+listing+'/'+where.capitalize()+'/'+what.capitalize()
+    return list
 
-tocrawl=set([list])
-crawled=set([])
+
 keywordregex=re.compile('<span\sclass=["\']Ctitle["\']><a\shref=[\'"](.*?)[\'"]>(.*?)</a></span>.*?')
-#linkregex = re.compile('<a\s*href=[\'|"](.*?)[\'"].*?>')
-count=0
-while 1:
-    try:
-        crawling=tocrawl.pop()
-        print crawling
-    except KeyError:
-        raise StopIteration            
-    
-    url = urlparse.urlparse(crawling)
-    try:
-        response = urllib2.urlopen(crawling)
-    except:
-        continue
-    msg = response.read()
-    
-    startPos = msg.find('<title>')
-    if startPos != -1:
-        endPos = msg.find('</title>', startPos+7)
-    if endPos != -1:
-        title = msg[startPos+7:endPos]
-        print title
-    link={}
-    keywordlist = keywordregex.findall(msg)
-    print keywordlist[0]
-    for i in range(0, len(keywordlist)):
-        link['1']=keywordlist[i]
-    print link
-    #links=linkregex.findall(msg)
-    crawled.add(crawling)
-    links=[x[0] for x in keywordlist]
-    print links
 
-"""    for link in (links.pop(0) for _ in xrange(len(links))):
-        if link.startswith('/'):
-            link = 'http://' + url[1] + link
-        elif link.startswith('#'):
-            link = 'http://' + url[1] + url[2] + link
-        elif not link.startswith('http'):
-            link = 'http://' + url[1] + '/' + link
-        if link not in crawled:
-            tocrawl.add(link)
+def get_html(url):
+    msg=urllib2.urlopen(url).read()
+    return msg
 
-"""
+def get_links(tocrawl, crawled):
+    links=[]
+    while tocrawl:
+        print "crawling", tocrawl
+        msg = get_html(tocrawl)
+        keywordlist = keywordregex.findall(msg)
+        """
+        link={}
+        for i in range(0, len(keywordlist)):
+            link[i]=keywordlist[i]
+        print link
+        """
+        #links=linkregex.findall(msg)
+        crawled.append(tocrawl)
+        links=[x[0] for x in keywordlist]
+        tocrawl=''
+    return links
+
+def get_next_link(msg):
+    class_regex=re.compile('<div\sclass=[\'"]pagination[\'"]>(.*?)</div>')
+    a_list=class_regex.findall(msg)
+    a=a_list[0].split('</a>')
+    a=[i for i in a if 'next' in i]
+    link_regex=re.compile('<a\shref=[\'"](.*?)[\'"]>next\s')
+    next_link=link_regex.findall(a[0])
+    if len(next_link)>0:
+        return next_link[0]
+    else:
+        return ''
+
+def all_links(url,company_links):
+    while 'http://' in url:
+        company_links.append(get_links(url,crawled))
+        #print company_links
+        #url=get_next_link(get_html(url))
+        url=''
+        if url:
+            if (' ' in url):
+                url=url.replace(' ','%20')
+
+    return company_links
+
+def get_company_name(soup):
+    cname=str(soup.find(id="cn"))
+    cregex=re.compile('value=[\'"](.*?)[\'"]')
+    c_name=cregex.findall(cname)
+    if c_name:
+        return c_name[0]
+    else:
+        return '-'
+
+def get_person_name(soup):
+    pname=soup.find(id="more").p.text
+    if pname:
+        return pname
+    else:
+        return '-'
+
+
+def get_phone(soup):
+    phone=soup.find(id="more").findAll('p')[1].text
+    if phone:
+        return phone
+    else:
+        return '-'
+
+def get_add(soup):
+    addr=str(soup.find(id="add"))
+    aregex=re.compile('value=[\'"](.*?)[\'"]')
+    add=aregex.findall(addr)
+    if add:
+        return add[0]
+    else:
+        return '-'
+
+    
+if __name__=='__main__':
+    listing=raw_input("url:")
+    where=raw_input("where?")
+    what=raw_input("what?")
+    url=get_start_url(listing)
+    crawled=[]
+    company_links=[]
+ 
+    company_links=all_links(url,company_links)[0]
+    #print company_links
+
+    name=[]
+    person=[]
+    phone=[]
+    add=[]
+    
+    while len(company_links)>0:
+        soup=BeautifulSoup(get_html(company_links.pop(0)))
+        name.append(get_company_name(soup))
+        person.append(get_person_name(soup))
+        phone.append(get_phone(soup))
+        add.append(get_add(soup))
+    print "names:",name
+    print "person:",person
+    print "phone:",phone
+    print "add:",add
 
 
     

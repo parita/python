@@ -1,44 +1,212 @@
-Microsoft Windows XP [Version 5.1.2600]
-(C) Copyright 1985-2001 Microsoft Corp.
+person: [u'Mr Kaplesh Doshi', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr Bh
+avik Vora(Managing Director)', u'Mr Shabbir', u'Mr Kaushal G Somaiya(Partner),Mr
+ Kaushik G Somaiya(Partner)', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr An
+and', u'Mr Tushar Shah(Proprietor)', u'Mr Singh(Owner)', u'Mr Ankur Zaveri(Propr
+ietor)', u'Mr Kumar(Proprietor)', u'Mr Karan,Mr Bunny', u'Mr Sharad Baid(Partner
+),Mr Aashish Baid(Partner)', u'Mr Kishore Ahuja', u'Mr Manoj Shah', u'Mr Madan D
+odeja(Founder)', u'Mr Manoj B Korgaonkar(AGM Sales)', u'Mr Ashok Loya,Mr Zankhan
+a Katira(Manager Corporate Communic', u'Mr Arvind Maru,Mr Bipin Maru', u'Mr Praf
+ul', u'Mr Rajendra Chopra', u'Mr Manij(Advtsg)', u'Mr Hariwala Mudra(Proprietor)
+,MS Leena']
+phone: [u'+(91)-22-61610691', u'+(91)-22-67625389', u'+(91)-22-61427598', u'+(91
+)-22-67306497', u'+(91)-22-61622092', u'+(91)-22-61637943', u'+(91)-22-61614693'
+, u'+(91)-22-61637859', u'+(91)-(832)-2272125', u'+(91)-22-61611202', u'+(91)-22
+-61428177', u'+(91)-22-61615505', u'+(91)-22-61632596', u'+(91)-(20)-25534324, 2
+5533562', u'+(91)-(22)-26716382, 26714484', u'+(91)-(22)-67911445, 67911446, 276
+26300, 67911456', u'+(91)-(22)-30894570, 30894500', u'+(91)-(22)-24949009, 24924
+144', u'+(91)-(22)-22051828, 22061518', u'+(91)-(22)-66144151 22666764, 22666765
+, 22666767, 66144000', u'+(91)-(22)-22051994, 22066001, 22066002, 22066003', u'+
+(91)-(22)-30418888, 66938695', u'+(91)-(22)-67494748, 22061344, 22181549']
+add: ['Building No 6 Flat No 701 A Wing,&nbsp;Near M C F Garden Prem Nagar,&nbsp
+;Off S V Road,&nbsp;borivali west,&nbsp;Mumbai - 400092', 'Shop No 95,Chandabhai
+ Building,&nbsp;Near Crawford Market,&nbsp;Lohar Chawl,&nbsp;Kalbadevi,&nbsp;Mum
+bai - 400002', 'Office No 68, Sidhpura Industrial Estate,&nbsp;Near Hallav Pool,
+&nbsp;Masrani Lane,&nbsp;Kurla West,&nbsp;Mumbai - 400070', 'Office No 5 2nd Flo
+or Building F 419,&nbsp;Joshiwadi,&nbsp;Kalbadevi Rd,&nbsp;Kalbadevi,&nbsp;Mumba
+i - 400002', '1ST FLR,Room No 21,Peerbhai Bldg No 2,&nbsp;Pathak Wadi, Lohar Cha
+wl 89,&nbsp;Princess Street,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', '95 Lo
+har Chawl Chandabhai Building,&nbsp;Crawford Market,&nbsp;Mumbai - 400001', '2,S
+indhu Sagar,Kasturi AC Market,&nbsp;Opp Ghanshyam Mall,&nbsp;M P Road,&nbsp;domb
+ivli industrial area,&nbsp;Thane - 421203', '1ST Floor 7 Gopal Niwas,&nbsp;Shama
+ldas Gandhi Marg,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', 'Near ST Anthony
+Church,Church Bazar,&nbsp;Siolim,&nbsp;GOA - 403517', 'Shop No 16 , K L M Center
+ ,&nbsp;Opp Goa Guest Houses,&nbsp;Lamington Rd Grant Rd,Tara Temple Lane,&nbsp;
+Lamington Road,&nbsp;Mumbai - 400004', '111,Ground Floor,Ramji Thakersey Buildin
+g,&nbsp;Near Crowford Market,&nbsp;Lohar Chawl,&nbsp;Lohar Chawl,&nbsp;Mumbai -
+400002', '196,Tegh House Saheed Bhagat Singh Co Operative Housing Society,&nbsp;
+Near J B Nagar,&nbsp;Andheri Kurla Road,&nbsp;Andheri East,&nbsp;Mumbai - 400072
+', '9/A, Bhanukant Complex,&nbsp;Near Aarey Check Naka,&nbsp;Junction Of Aarey R
+oad, Western Express Highway,&nbsp;Goregaon East,&nbsp;Mumbai - 400063', '1342,&
+nbsp;Opp PMC Building,&nbsp;Shivaji Nagar,&nbsp;Pune - 411005', '3 Irla Sadan,&n
+bsp;Near Cooper Hospital Irla,&nbsp;Irla Society Road,&nbsp;Vile Parle West,&nbs
+p;Mumbai - 400056', 'Plot No D/265, Sagar Ratan Industrial Premises,&nbsp;MIDC,&
+nbsp;Thurbe,&nbsp;Navi Mumbai - 400705', 'Akruti Centre 2 ND Floor MIDC Andheri
+East,&nbsp;MIDC,&nbsp;Andheri East,&nbsp;Andheri East,&nbsp;Mumbai - 400093', 'R
+am Ratna House,&nbsp;Victoria Mill Compound,&nbsp;P B Marg,&nbsp;Worli,&nbsp;Mum
+bai - 400018', '135 Tawawala Bldg,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Lax
+mi Buildingg 4th Flr,&nbsp;Shoorji Vallabhdas Marg,&nbsp;Ballard Estate,&nbsp;Mu
+mbai - 400038', '29 Ismail Building Lohar Chawl,&nbsp;Near Crawford Market,&nbsp
+;Pathakwadi,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Marathon Next Zen Innova
+C Wing,&nbsp;Off G Marg,&nbsp;Lower Parel,&nbsp;Mumbai - 400013', '45/47 Sardar
+Griha,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002']
+names: ['Navkar Trading', 'E A Poonawala', 'Kenter Wires &amp; Cables', 'Delight
+ Electro Traders', 'Shreeji Electric Corporation', 'E A Poonawala', 'Sagar Elect
+ronics Dombivili', 'Nitro Enterprise', 'Ashapura Electricals', 'Infoline System'
+, 'Manglik Electricals', 'Tegh Cables PVT LTD', 'Allied Trading Company', 'Jyoti
+ Electricals &amp; Trading Co', 'Nagrik Electric Corporation', 'Vashi Electrical
+s Pvt Ltd', 'Reliance Communication Limited', 'R R Kabel PVT LTD', 'Asian Electr
+icals', 'Cable Corporation Of India Ltd', 'Ajit Cables', 'Anchor Electricals Pvt
+ Ltd', 'N M Electrical', 'Allied Electrical Industries']
+person: [u'Mr Kaplesh Doshi', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr Bh
+avik Vora(Managing Director)', u'Mr Shabbir', u'Mr Kaushal G Somaiya(Partner),Mr
+ Kaushik G Somaiya(Partner)', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr An
+and', u'Mr Tushar Shah(Proprietor)', u'Mr Singh(Owner)', u'Mr Ankur Zaveri(Propr
+ietor)', u'Mr Kumar(Proprietor)', u'Mr Karan,Mr Bunny', u'Mr Sharad Baid(Partner
+),Mr Aashish Baid(Partner)', u'Mr Kishore Ahuja', u'Mr Manoj Shah', u'Mr Madan D
+odeja(Founder)', u'Mr Manoj B Korgaonkar(AGM Sales)', u'Mr Ashok Loya,Mr Zankhan
+a Katira(Manager Corporate Communic', u'Mr Arvind Maru,Mr Bipin Maru', u'Mr Praf
+ul', u'Mr Rajendra Chopra', u'Mr Manij(Advtsg)', u'Mr Hariwala Mudra(Proprietor)
+,MS Leena', u'Mr Subhash']
+phone: [u'+(91)-22-61610691', u'+(91)-22-67625389', u'+(91)-22-61427598', u'+(91
+)-22-67306497', u'+(91)-22-61622092', u'+(91)-22-61637943', u'+(91)-22-61614693'
+, u'+(91)-22-61637859', u'+(91)-(832)-2272125', u'+(91)-22-61611202', u'+(91)-22
+-61428177', u'+(91)-22-61615505', u'+(91)-22-61632596', u'+(91)-(20)-25534324, 2
+5533562', u'+(91)-(22)-26716382, 26714484', u'+(91)-(22)-67911445, 67911446, 276
+26300, 67911456', u'+(91)-(22)-30894570, 30894500', u'+(91)-(22)-24949009, 24924
+144', u'+(91)-(22)-22051828, 22061518', u'+(91)-(22)-66144151 22666764, 22666765
+, 22666767, 66144000', u'+(91)-(22)-22051994, 22066001, 22066002, 22066003', u'+
+(91)-(22)-30418888, 66938695', u'+(91)-(22)-67494748, 22061344, 22181549', u'+(9
+1)-(22)-28886900, 28821703, 28821706']
+add: ['Building No 6 Flat No 701 A Wing,&nbsp;Near M C F Garden Prem Nagar,&nbsp
+;Off S V Road,&nbsp;borivali west,&nbsp;Mumbai - 400092', 'Shop No 95,Chandabhai
+ Building,&nbsp;Near Crawford Market,&nbsp;Lohar Chawl,&nbsp;Kalbadevi,&nbsp;Mum
+bai - 400002', 'Office No 68, Sidhpura Industrial Estate,&nbsp;Near Hallav Pool,
+&nbsp;Masrani Lane,&nbsp;Kurla West,&nbsp;Mumbai - 400070', 'Office No 5 2nd Flo
+or Building F 419,&nbsp;Joshiwadi,&nbsp;Kalbadevi Rd,&nbsp;Kalbadevi,&nbsp;Mumba
+i - 400002', '1ST FLR,Room No 21,Peerbhai Bldg No 2,&nbsp;Pathak Wadi, Lohar Cha
+wl 89,&nbsp;Princess Street,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', '95 Lo
+har Chawl Chandabhai Building,&nbsp;Crawford Market,&nbsp;Mumbai - 400001', '2,S
+indhu Sagar,Kasturi AC Market,&nbsp;Opp Ghanshyam Mall,&nbsp;M P Road,&nbsp;domb
+ivli industrial area,&nbsp;Thane - 421203', '1ST Floor 7 Gopal Niwas,&nbsp;Shama
+ldas Gandhi Marg,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', 'Near ST Anthony
+Church,Church Bazar,&nbsp;Siolim,&nbsp;GOA - 403517', 'Shop No 16 , K L M Center
+ ,&nbsp;Opp Goa Guest Houses,&nbsp;Lamington Rd Grant Rd,Tara Temple Lane,&nbsp;
+Lamington Road,&nbsp;Mumbai - 400004', '111,Ground Floor,Ramji Thakersey Buildin
+g,&nbsp;Near Crowford Market,&nbsp;Lohar Chawl,&nbsp;Lohar Chawl,&nbsp;Mumbai -
+400002', '196,Tegh House Saheed Bhagat Singh Co Operative Housing Society,&nbsp;
+Near J B Nagar,&nbsp;Andheri Kurla Road,&nbsp;Andheri East,&nbsp;Mumbai - 400072
+', '9/A, Bhanukant Complex,&nbsp;Near Aarey Check Naka,&nbsp;Junction Of Aarey R
+oad, Western Express Highway,&nbsp;Goregaon East,&nbsp;Mumbai - 400063', '1342,&
+nbsp;Opp PMC Building,&nbsp;Shivaji Nagar,&nbsp;Pune - 411005', '3 Irla Sadan,&n
+bsp;Near Cooper Hospital Irla,&nbsp;Irla Society Road,&nbsp;Vile Parle West,&nbs
+p;Mumbai - 400056', 'Plot No D/265, Sagar Ratan Industrial Premises,&nbsp;MIDC,&
+nbsp;Thurbe,&nbsp;Navi Mumbai - 400705', 'Akruti Centre 2 ND Floor MIDC Andheri
+East,&nbsp;MIDC,&nbsp;Andheri East,&nbsp;Andheri East,&nbsp;Mumbai - 400093', 'R
+am Ratna House,&nbsp;Victoria Mill Compound,&nbsp;P B Marg,&nbsp;Worli,&nbsp;Mum
+bai - 400018', '135 Tawawala Bldg,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Lax
+mi Buildingg 4th Flr,&nbsp;Shoorji Vallabhdas Marg,&nbsp;Ballard Estate,&nbsp;Mu
+mbai - 400038', '29 Ismail Building Lohar Chawl,&nbsp;Near Crawford Market,&nbsp
+;Pathakwadi,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Marathon Next Zen Innova
+C Wing,&nbsp;Off G Marg,&nbsp;Lower Parel,&nbsp;Mumbai - 400013', '45/47 Sardar
+Griha,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', '4 &amp; 5,SAI Zarukha,&nbsp;Opp
+ Sndt College,&nbsp;Adarsh Society Road,Liberty Garden,&nbsp;Malad West,&nbsp;Mu
+mbai - 400064']
+names: ['Navkar Trading', 'E A Poonawala', 'Kenter Wires &amp; Cables', 'Delight
+ Electro Traders', 'Shreeji Electric Corporation', 'E A Poonawala', 'Sagar Elect
+ronics Dombivili', 'Nitro Enterprise', 'Ashapura Electricals', 'Infoline System'
+, 'Manglik Electricals', 'Tegh Cables PVT LTD', 'Allied Trading Company', 'Jyoti
+ Electricals &amp; Trading Co', 'Nagrik Electric Corporation', 'Vashi Electrical
+s Pvt Ltd', 'Reliance Communication Limited', 'R R Kabel PVT LTD', 'Asian Electr
+icals', 'Cable Corporation Of India Ltd', 'Ajit Cables', 'Anchor Electricals Pvt
+ Ltd', 'N M Electrical', 'Allied Electrical Industries', 'Raychem Rpg LTD (H O)'
+]
+person: [u'Mr Kaplesh Doshi', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr Bh
+avik Vora(Managing Director)', u'Mr Shabbir', u'Mr Kaushal G Somaiya(Partner),Mr
+ Kaushik G Somaiya(Partner)', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr An
+and', u'Mr Tushar Shah(Proprietor)', u'Mr Singh(Owner)', u'Mr Ankur Zaveri(Propr
+ietor)', u'Mr Kumar(Proprietor)', u'Mr Karan,Mr Bunny', u'Mr Sharad Baid(Partner
+),Mr Aashish Baid(Partner)', u'Mr Kishore Ahuja', u'Mr Manoj Shah', u'Mr Madan D
+odeja(Founder)', u'Mr Manoj B Korgaonkar(AGM Sales)', u'Mr Ashok Loya,Mr Zankhan
+a Katira(Manager Corporate Communic', u'Mr Arvind Maru,Mr Bipin Maru', u'Mr Praf
+ul', u'Mr Rajendra Chopra', u'Mr Manij(Advtsg)', u'Mr Hariwala Mudra(Proprietor)
+,MS Leena', u'Mr Subhash', u'Ms Daisy Dotivala / Mr P S Shankar Raman,Mr P Rajgo
+palan']
+phone: [u'+(91)-22-61610691', u'+(91)-22-67625389', u'+(91)-22-61427598', u'+(91
+)-22-67306497', u'+(91)-22-61622092', u'+(91)-22-61637943', u'+(91)-22-61614693'
+, u'+(91)-22-61637859', u'+(91)-(832)-2272125', u'+(91)-22-61611202', u'+(91)-22
+-61428177', u'+(91)-22-61615505', u'+(91)-22-61632596', u'+(91)-(20)-25534324, 2
+5533562', u'+(91)-(22)-26716382, 26714484', u'+(91)-(22)-67911445, 67911446, 276
+26300, 67911456', u'+(91)-(22)-30894570, 30894500', u'+(91)-(22)-24949009, 24924
+144', u'+(91)-(22)-22051828, 22061518', u'+(91)-(22)-66144151 22666764, 22666765
+, 22666767, 66144000', u'+(91)-(22)-22051994, 22066001, 22066002, 22066003', u'+
+(91)-(22)-30418888, 66938695', u'+(91)-(22)-67494748, 22061344, 22181549', u'+(9
+1)-(22)-28886900, 28821703, 28821706', u'+(91)-(22)-24937485, 24937486, 24937487
+']
+add: ['Building No 6 Flat No 701 A Wing,&nbsp;Near M C F Garden Prem Nagar,&nbsp
+;Off S V Road,&nbsp;borivali west,&nbsp;Mumbai - 400092', 'Shop No 95,Chandabhai
+ Building,&nbsp;Near Crawford Market,&nbsp;Lohar Chawl,&nbsp;Kalbadevi,&nbsp;Mum
+bai - 400002', 'Office No 68, Sidhpura Industrial Estate,&nbsp;Near Hallav Pool,
+&nbsp;Masrani Lane,&nbsp;Kurla West,&nbsp;Mumbai - 400070', 'Office No 5 2nd Flo
+or Building F 419,&nbsp;Joshiwadi,&nbsp;Kalbadevi Rd,&nbsp;Kalbadevi,&nbsp;Mumba
+i - 400002', '1ST FLR,Room No 21,Peerbhai Bldg No 2,&nbsp;Pathak Wadi, Lohar Cha
+wl 89,&nbsp;Princess Street,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', '95 Lo
+har Chawl Chandabhai Building,&nbsp;Crawford Market,&nbsp;Mumbai - 400001', '2,S
+indhu Sagar,Kasturi AC Market,&nbsp;Opp Ghanshyam Mall,&nbsp;M P Road,&nbsp;domb
+ivli industrial area,&nbsp;Thane - 421203', '1ST Floor 7 Gopal Niwas,&nbsp;Shama
+ldas Gandhi Marg,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', 'Near ST Anthony
+Church,Church Bazar,&nbsp;Siolim,&nbsp;GOA - 403517', 'Shop No 16 , K L M Center
+ ,&nbsp;Opp Goa Guest Houses,&nbsp;Lamington Rd Grant Rd,Tara Temple Lane,&nbsp;
+Lamington Road,&nbsp;Mumbai - 400004', '111,Ground Floor,Ramji Thakersey Buildin
+g,&nbsp;Near Crowford Market,&nbsp;Lohar Chawl,&nbsp;Lohar Chawl,&nbsp;Mumbai -
+400002', '196,Tegh House Saheed Bhagat Singh Co Operative Housing Society,&nbsp;
+Near J B Nagar,&nbsp;Andheri Kurla Road,&nbsp;Andheri East,&nbsp;Mumbai - 400072
+', '9/A, Bhanukant Complex,&nbsp;Near Aarey Check Naka,&nbsp;Junction Of Aarey R
+oad, Western Express Highway,&nbsp;Goregaon East,&nbsp;Mumbai - 400063', '1342,&
+nbsp;Opp PMC Building,&nbsp;Shivaji Nagar,&nbsp;Pune - 411005', '3 Irla Sadan,&n
+bsp;Near Cooper Hospital Irla,&nbsp;Irla Society Road,&nbsp;Vile Parle West,&nbs
+p;Mumbai - 400056', 'Plot No D/265, Sagar Ratan Industrial Premises,&nbsp;MIDC,&
+nbsp;Thurbe,&nbsp;Navi Mumbai - 400705', 'Akruti Centre 2 ND Floor MIDC Andheri
+East,&nbsp;MIDC,&nbsp;Andheri East,&nbsp;Andheri East,&nbsp;Mumbai - 400093', 'R
+am Ratna House,&nbsp;Victoria Mill Compound,&nbsp;P B Marg,&nbsp;Worli,&nbsp;Mum
+bai - 400018', '135 Tawawala Bldg,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Lax
+mi Buildingg 4th Flr,&nbsp;Shoorji Vallabhdas Marg,&nbsp;Ballard Estate,&nbsp;Mu
+mbai - 400038', '29 Ismail Building Lohar Chawl,&nbsp;Near Crawford Market,&nbsp
+;Pathakwadi,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Marathon Next Zen Innova
+C Wing,&nbsp;Off G Marg,&nbsp;Lower Parel,&nbsp;Mumbai - 400013', '45/47 Sardar
+Griha,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', '4 &amp; 5,SAI Zarukha,&nbsp;Opp
+ Sndt College,&nbsp;Adarsh Society Road,Liberty Garden,&nbsp;Malad West,&nbsp;Mu
+mbai - 400064', 'Ceat Mahal Annexe,&nbsp;469, DR Annie Besant RD,&nbsp;Worli New
+,&nbsp;Mumbai - 400030']
 
-C:\Documents and Settings\Suresh>cd c:\python27
-
-C:\Python27>python crawl.py
+C:\Python27\crawler>python justdial.py
 url:www.justdial.com
 where?mumbai
 what?cable-dealers
-http://www.justdial.com/Mumbai/Cable-dealers
-Cable Dealers  in  Mumbai, India | Justdial
-('http://www.justdial.com/Mumbai/Navkar-Trading-&lt;near&gt;-M-C-F-Garden-Prem-N
-agar-borivali-west/022PXX22-XX22-100717152539-B1N4_TXVtYmFpIENhYmxlIGRlYWxlcnM=_
-BZDET', 'Navkar Trading')
-{'1': ('http://www.justdial.com/Mumbai/Raychem-Rpg-LTD-(H-O)-&lt;near&gt;-Worli-
-New/022PXX22-XX22-000745428444-Q3Y6_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'Rayche
-m Rpg LTD (H O)')}
-['http://www.justdial.com/Mumbai/Navkar-Trading-&lt;near&gt;-M-C-F-Garden-Prem-N
-agar-borivali-west/022PXX22-XX22-100717152539-B1N4_TXVtYmFpIENhYmxlIGRlYWxlcnM=_
-BZDET', 'http://www.justdial.com/Mumbai/E-A-Poonawala-&lt;near&gt;-Crawford-Mark
-et-Kalbadevi/022PXX22-XX22-110927130349-C1J4_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET'
-, 'http://www.justdial.com/Mumbai/Kenter-Wires-Cables-&lt;near&gt;-Hallav-Pool--
-Kurla-West/022P1969007_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial
-.com/Mumbai/Delight-Electro-Traders-&lt;near&gt;-Joshiwadi-Kalbadevi/022PW000493
-_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Shreeji-El
-ectric-Corporation-&lt;near&gt;-Pathak-Wadi-Lohar-Chawl-89-PRINCESS-STREET/022PX
-X22-XX22-100729212531-N4F2_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.just
-dial.com/Mumbai/Ashapura-Electricals-&lt;near&gt;-Siolim/022PXX22-XX22-111018164
-037-N6D6_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/E-
-A-Poonawala-&lt;near&gt;-Crawford-Market/022PK041602_TXVtYmFpIENhYmxlIGRlYWxlcnM
-=_BZDET', 'http://www.justdial.com/Mumbai/Sagar-Electronics-Dombivili-&lt;near&g
-t;-Opp-Ghanshyam-Mall-dombivli-industrial-area/022PGL02125_TXVtYmFpIENhYmxlIGRlY
-WxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Nitro-Enterprise-&lt;near&gt;-PR
-INCESS-STREET/022P1235388926X1L4D9_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://
-www.justdial.com/Mumbai/Infoline-System-&lt;near&gt;-Opp-Goa-Guest-Houses-Laming
-ton-Road/022PXX22-XX22-091209181927-Q3U6_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'h
-ttp://www.justdial.com/Mumbai/Manglik-Electricals-&lt;near&gt;-Crowford-Market-L
-ohar-Chawl/022PK027762_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial
-.com/Mumbai/Tegh-Cables-PVT-LTD-&lt;near&gt;-J-B-Nagar-Andheri-East/022PZ008530_
-TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Allied-Trad
-ing-Company-&lt;near&gt;-Aarey-Check-Naka-Goregaon-East/022PF002509_TXVtYmFpIENh
+crawling http://www.justdial.com/Mumbai/Cable-dealers
+['http://www.justdial.com/Mumbai/Tegh-Cables-PVT-LTD-&lt;near&gt;-J-B-Nagar-Andh
+eri-East/022PZ008530_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.c
+om/Mumbai/Allied-Trading-Company-&lt;near&gt;-Aarey-Check-Naka-Goregaon-East/022
+PF002509_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/E-
+A-Poonawala-&lt;near&gt;-Crawford-Market-Kalbadevi/022PXX22-XX22-110927130349-C1
+J4_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Kenter-W
+ires-Cables-&lt;near&gt;-Hallav-Pool--Kurla-West/022P1969007_TXVtYmFpIENhYmxlIGR
+lYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Delight-Electro-Traders-&lt;ne
+ar&gt;-Joshiwadi-Kalbadevi/022PW000493_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'htt
+p://www.justdial.com/Mumbai/Shreeji-Electric-Corporation-&lt;near&gt;-Pathak-Wad
+i-Lohar-Chawl-89-PRINCESS-STREET/022PXX22-XX22-100729212531-N4F2_TXVtYmFpIENhYmx
+lIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Ashapura-Electricals-&lt;n
+ear&gt;-Siolim/022PXX22-XX22-111018164037-N6D6_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDE
+T', 'http://www.justdial.com/Mumbai/E-A-Poonawala-&lt;near&gt;-Crawford-Market/0
+22PK041602_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/
+Sagar-Electronics-Dombivili-&lt;near&gt;-Opp-Ghanshyam-Mall-dombivli-industrial-
+area/022PGL02125_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/M
+umbai/Nitro-Enterprise-&lt;near&gt;-PRINCESS-STREET/022P1235388926X1L4D9_TXVtYmF
+pIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Infoline-System-&l
+t;near&gt;-Opp-Goa-Guest-Houses-Lamington-Road/022PXX22-XX22-091209181927-Q3U6_T
+XVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Manglik-Elec
+tricals-&lt;near&gt;-Crowford-Market-Lohar-Chawl/022PK027762_TXVtYmFpIENhYmxlIGR
+lYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Navkar-Trading-&lt;near&gt;-M-
+C-F-Garden-Prem-Nagar-borivali-west/022PXX22-XX22-100717152539-B1N4_TXVtYmFpIENh
 YmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Jyoti-Electricals-Tradi
 ng-Co-&lt;near&gt;-Opp-PMC-Building-Shivaji-Nagar/022PXX20-XX20-111111124051-C8P
 3_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Nagrik-El
@@ -62,8 +230,368 @@ ries-&lt;near&gt;-Opp-Sndt-College-Malad-West/022PN500635_TXVtYmFpIENhYmxlIGRlYW
 xlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Raychem-Rpg-LTD-(H-O)-&lt;near&gt
 ;-Worli-New/022PXX22-XX22-000745428444-Q3Y6_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET']
 
-Traceback (most recent call last):
-  File "crawl.py", line 26, in <module>
-    raise StopIteration
-StopIteration
+names: ['Tegh Cables PVT LTD', 'Allied Trading Company', 'E A Poonawala', 'Kente
+r Wires &amp; Cables', 'Delight Electro Traders', 'Shreeji Electric Corporation'
+, 'Ashapura Electricals', 'E A Poonawala', 'Sagar Electronics Dombivili', 'Nitro
+ Enterprise', 'Infoline System', 'Manglik Electricals', 'Navkar Trading', 'Jyoti
+ Electricals &amp; Trading Co', 'Nagrik Electric Corporation', 'Vashi Electrical
+s Pvt Ltd', 'Reliance Communication Limited', 'R R Kabel PVT LTD', 'Asian Electr
+icals', 'Cable Corporation Of India Ltd', 'Ajit Cables', 'Anchor Electricals Pvt
+ Ltd', 'N M Electrical', 'Allied Electrical Industries', 'Raychem Rpg LTD (H O)'
+]
+person: [u'Mr Karan,Mr Bunny', u'Mr Sharad Baid(Partner),Mr Aashish Baid(Partner
+)', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr Bhavik Vora(Managing Directo
+r)', u'Mr Shabbir', u'Mr Kaushal G Somaiya(Partner),Mr Kaushik G Somaiya(Partner
+)', u'Mr Singh(Owner)', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr Anand',
+u'Mr Tushar Shah(Proprietor)', u'Mr Ankur Zaveri(Proprietor)', u'Mr Kumar(Propri
+etor)', u'Mr Kaplesh Doshi', u'Mr Kishore Ahuja', u'Mr Manoj Shah', u'Mr Madan D
+odeja(Founder)', u'Mr Manoj B Korgaonkar(AGM Sales)', u'Mr Ashok Loya,Mr Zankhan
+a Katira(Manager Corporate Communic', u'Mr Arvind Maru,Mr Bipin Maru', u'Mr Praf
+ul', u'Mr Rajendra Chopra', u'Mr Manij(Advtsg)', u'Mr Hariwala Mudra(Proprietor)
+,MS Leena', u'Mr Subhash', u'Ms Daisy Dotivala / Mr P S Shankar Raman,Mr P Rajgo
+palan']
+phone: [u'+(91)-22-61615505', u'+(91)-22-61632596', u'+(91)-22-67625389', u'+(91
+)-22-61427598', u'+(91)-22-67306497', u'+(91)-22-61622092', u'+(91)-(832)-227212
+5', u'+(91)-22-61637943', u'+(91)-22-61614693', u'+(91)-22-61637859', u'+(91)-22
+-61611202', u'+(91)-22-61428177', u'+(91)-22-61610691', u'+(91)-(20)-25534324, 2
+5533562', u'+(91)-(22)-26716382, 26714484', u'+(91)-(22)-67911445, 67911446, 276
+26300, 67911456', u'+(91)-(22)-30894570, 30894500', u'+(91)-(22)-24949009, 24924
+144', u'+(91)-(22)-22051828, 22061518', u'+(91)-(22)-66144151 22666764, 22666765
+, 22666767, 66144000', u'+(91)-(22)-22051994, 22066001, 22066002, 22066003', u'+
+(91)-(22)-30418888, 66938695', u'+(91)-(22)-67494748, 22061344, 22181549', u'+(9
+1)-(22)-28886900, 28821703, 28821706', u'+(91)-(22)-24937485, 24937486, 24937487
+']
+add: ['196,Tegh House Saheed Bhagat Singh Co Operative Housing Society,&nbsp;Nea
+r J B Nagar,&nbsp;Andheri Kurla Road,&nbsp;Andheri East,&nbsp;Mumbai - 400072',
+'9/A, Bhanukant Complex,&nbsp;Near Aarey Check Naka,&nbsp;Junction Of Aarey Road
+, Western Express Highway,&nbsp;Goregaon East,&nbsp;Mumbai - 400063', 'Shop No 9
+5,Chandabhai Building,&nbsp;Near Crawford Market,&nbsp;Lohar Chawl,&nbsp;Kalbade
+vi,&nbsp;Mumbai - 400002', 'Office No 68, Sidhpura Industrial Estate,&nbsp;Near
+Hallav Pool,&nbsp;Masrani Lane,&nbsp;Kurla West,&nbsp;Mumbai - 400070', 'Office
+No 5 2nd Floor Building F 419,&nbsp;Joshiwadi,&nbsp;Kalbadevi Rd,&nbsp;Kalbadevi
+,&nbsp;Mumbai - 400002', '1ST FLR,Room No 21,Peerbhai Bldg No 2,&nbsp;Pathak Wad
+i, Lohar Chawl 89,&nbsp;Princess Street,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400
+002', 'Near ST Anthony Church,Church Bazar,&nbsp;Siolim,&nbsp;GOA - 403517', '95
+ Lohar Chawl Chandabhai Building,&nbsp;Crawford Market,&nbsp;Mumbai - 400001', '
+2,Sindhu Sagar,Kasturi AC Market,&nbsp;Opp Ghanshyam Mall,&nbsp;M P Road,&nbsp;d
+ombivli industrial area,&nbsp;Thane - 421203', '1ST Floor 7 Gopal Niwas,&nbsp;Sh
+amaldas Gandhi Marg,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', 'Shop No 16 ,
+K L M Center ,&nbsp;Opp Goa Guest Houses,&nbsp;Lamington Rd Grant Rd,Tara Temple
+ Lane,&nbsp;Lamington Road,&nbsp;Mumbai - 400004', '111,Ground Floor,Ramji Thake
+rsey Building,&nbsp;Near Crowford Market,&nbsp;Lohar Chawl,&nbsp;Lohar Chawl,&nb
+sp;Mumbai - 400002', 'Building No 6 Flat No 701 A Wing,&nbsp;Near M C F Garden P
+rem Nagar,&nbsp;Off S V Road,&nbsp;borivali west,&nbsp;Mumbai - 400092', '1342,&
+nbsp;Opp PMC Building,&nbsp;Shivaji Nagar,&nbsp;Pune - 411005', '3 Irla Sadan,&n
+bsp;Near Cooper Hospital Irla,&nbsp;Irla Society Road,&nbsp;Vile Parle West,&nbs
+p;Mumbai - 400056', 'Plot No D/265, Sagar Ratan Industrial Premises,&nbsp;MIDC,&
+nbsp;Thurbe,&nbsp;Navi Mumbai - 400705', 'Akruti Centre 2 ND Floor MIDC Andheri
+East,&nbsp;MIDC,&nbsp;Andheri East,&nbsp;Andheri East,&nbsp;Mumbai - 400093', 'R
+am Ratna House,&nbsp;Victoria Mill Compound,&nbsp;P B Marg,&nbsp;Worli,&nbsp;Mum
+bai - 400018', '135 Tawawala Bldg,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Lax
+mi Buildingg 4th Flr,&nbsp;Shoorji Vallabhdas Marg,&nbsp;Ballard Estate,&nbsp;Mu
+mbai - 400038', '29 Ismail Building Lohar Chawl,&nbsp;Near Crawford Market,&nbsp
+;Pathakwadi,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Marathon Next Zen Innova
+C Wing,&nbsp;Off G Marg,&nbsp;Lower Parel,&nbsp;Mumbai - 400013', '45/47 Sardar
+Griha,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', '4 &amp; 5,SAI Zarukha,&nbsp;Opp
+ Sndt College,&nbsp;Adarsh Society Road,Liberty Garden,&nbsp;Malad West,&nbsp;Mu
+mbai - 400064', 'Ceat Mahal Annexe,&nbsp;469, DR Annie Besant RD,&nbsp;Worli New
+,&nbsp;Mumbai - 400030']
+person: [u'Mr Kaplesh Doshi', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr Bh
+avik Vora(Managing Director)', u'Mr Shabbir', u'Mr Kaushal G Somaiya(Partner),Mr
+ Kaushik G Somaiya(Partner)', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr An
+and', u'Mr Tushar Shah(Proprietor)', u'Mr Singh(Owner)', u'Mr Ankur Zaveri(Propr
+ietor)', u'Mr Kumar(Proprietor)', u'Mr Karan,Mr Bunny', u'Mr Sharad Baid(Partner
+),Mr Aashish Baid(Partner)', u'Mr Kishore Ahuja', u'Mr Manoj Shah', u'Mr Madan D
+odeja(Founder)', u'Mr Manoj B Korgaonkar(AGM Sales)', u'Mr Ashok Loya,Mr Zankhan
+a Katira(Manager Corporate Communic', u'Mr Arvind Maru,Mr Bipin Maru', u'Mr Praf
+ul', u'Mr Rajendra Chopra', u'Mr Manij(Advtsg)', u'Mr Hariwala Mudra(Proprietor)
+,MS Leena']
+phone: [u'+(91)-22-61610691', u'+(91)-22-67625389', u'+(91)-22-61427598', u'+(91
+)-22-67306497', u'+(91)-22-61622092', u'+(91)-22-61637943', u'+(91)-22-61614693'
+, u'+(91)-22-61637859', u'+(91)-(832)-2272125', u'+(91)-22-61611202', u'+(91)-22
+-61428177', u'+(91)-22-61615505', u'+(91)-22-61632596', u'+(91)-(20)-25534324, 2
+5533562', u'+(91)-(22)-26716382, 26714484', u'+(91)-(22)-67911445, 67911446, 276
+26300, 67911456', u'+(91)-(22)-30894570, 30894500', u'+(91)-(22)-24949009, 24924
+144', u'+(91)-(22)-22051828, 22061518', u'+(91)-(22)-66144151 22666764, 22666765
+, 22666767, 66144000', u'+(91)-(22)-22051994, 22066001, 22066002, 22066003', u'+
+(91)-(22)-30418888, 66938695', u'+(91)-(22)-67494748, 22061344, 22181549']
+add: ['Building No 6 Flat No 701 A Wing,&nbsp;Near M C F Garden Prem Nagar,&nbsp
+;Off S V Road,&nbsp;borivali west,&nbsp;Mumbai - 400092', 'Shop No 95,Chandabhai
+ Building,&nbsp;Near Crawford Market,&nbsp;Lohar Chawl,&nbsp;Kalbadevi,&nbsp;Mum
+bai - 400002', 'Office No 68, Sidhpura Industrial Estate,&nbsp;Near Hallav Pool,
+&nbsp;Masrani Lane,&nbsp;Kurla West,&nbsp;Mumbai - 400070', 'Office No 5 2nd Flo
+or Building F 419,&nbsp;Joshiwadi,&nbsp;Kalbadevi Rd,&nbsp;Kalbadevi,&nbsp;Mumba
+i - 400002', '1ST FLR,Room No 21,Peerbhai Bldg No 2,&nbsp;Pathak Wadi, Lohar Cha
+wl 89,&nbsp;Princess Street,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', '95 Lo
+har Chawl Chandabhai Building,&nbsp;Crawford Market,&nbsp;Mumbai - 400001', '2,S
+indhu Sagar,Kasturi AC Market,&nbsp;Opp Ghanshyam Mall,&nbsp;M P Road,&nbsp;domb
+ivli industrial area,&nbsp;Thane - 421203', '1ST Floor 7 Gopal Niwas,&nbsp;Shama
+ldas Gandhi Marg,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', 'Near ST Anthony
+Church,Church Bazar,&nbsp;Siolim,&nbsp;GOA - 403517', 'Shop No 16 , K L M Center
+ ,&nbsp;Opp Goa Guest Houses,&nbsp;Lamington Rd Grant Rd,Tara Temple Lane,&nbsp;
+Lamington Road,&nbsp;Mumbai - 400004', '111,Ground Floor,Ramji Thakersey Buildin
+g,&nbsp;Near Crowford Market,&nbsp;Lohar Chawl,&nbsp;Lohar Chawl,&nbsp;Mumbai -
+400002', '196,Tegh House Saheed Bhagat Singh Co Operative Housing Society,&nbsp;
+Near J B Nagar,&nbsp;Andheri Kurla Road,&nbsp;Andheri East,&nbsp;Mumbai - 400072
+', '9/A, Bhanukant Complex,&nbsp;Near Aarey Check Naka,&nbsp;Junction Of Aarey R
+oad, Western Express Highway,&nbsp;Goregaon East,&nbsp;Mumbai - 400063', '1342,&
+nbsp;Opp PMC Building,&nbsp;Shivaji Nagar,&nbsp;Pune - 411005', '3 Irla Sadan,&n
+bsp;Near Cooper Hospital Irla,&nbsp;Irla Society Road,&nbsp;Vile Parle West,&nbs
+p;Mumbai - 400056', 'Plot No D/265, Sagar Ratan Industrial Premises,&nbsp;MIDC,&
+nbsp;Thurbe,&nbsp;Navi Mumbai - 400705', 'Akruti Centre 2 ND Floor MIDC Andheri
+East,&nbsp;MIDC,&nbsp;Andheri East,&nbsp;Andheri East,&nbsp;Mumbai - 400093', 'R
+am Ratna House,&nbsp;Victoria Mill Compound,&nbsp;P B Marg,&nbsp;Worli,&nbsp;Mum
+bai - 400018', '135 Tawawala Bldg,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Lax
+mi Buildingg 4th Flr,&nbsp;Shoorji Vallabhdas Marg,&nbsp;Ballard Estate,&nbsp;Mu
+mbai - 400038', '29 Ismail Building Lohar Chawl,&nbsp;Near Crawford Market,&nbsp
+;Pathakwadi,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Marathon Next Zen Innova
+C Wing,&nbsp;Off G Marg,&nbsp;Lower Parel,&nbsp;Mumbai - 400013', '45/47 Sardar
+Griha,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002']
+names: ['Navkar Trading', 'E A Poonawala', 'Kenter Wires &amp; Cables', 'Delight
+ Electro Traders', 'Shreeji Electric Corporation', 'E A Poonawala', 'Sagar Elect
+ronics Dombivili', 'Nitro Enterprise', 'Ashapura Electricals', 'Infoline System'
+, 'Manglik Electricals', 'Tegh Cables PVT LTD', 'Allied Trading Company', 'Jyoti
+ Electricals &amp; Trading Co', 'Nagrik Electric Corporation', 'Vashi Electrical
+s Pvt Ltd', 'Reliance Communication Limited', 'R R Kabel PVT LTD', 'Asian Electr
+icals', 'Cable Corporation Of India Ltd', 'Ajit Cables', 'Anchor Electricals Pvt
+ Ltd', 'N M Electrical', 'Allied Electrical Industries']
+person: [u'Mr Kaplesh Doshi', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr Bh
+avik Vora(Managing Director)', u'Mr Shabbir', u'Mr Kaushal G Somaiya(Partner),Mr
+ Kaushik G Somaiya(Partner)', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr An
+and', u'Mr Tushar Shah(Proprietor)', u'Mr Singh(Owner)', u'Mr Ankur Zaveri(Propr
+ietor)', u'Mr Kumar(Proprietor)', u'Mr Karan,Mr Bunny', u'Mr Sharad Baid(Partner
+),Mr Aashish Baid(Partner)', u'Mr Kishore Ahuja', u'Mr Manoj Shah', u'Mr Madan D
+odeja(Founder)', u'Mr Manoj B Korgaonkar(AGM Sales)', u'Mr Ashok Loya,Mr Zankhan
+a Katira(Manager Corporate Communic', u'Mr Arvind Maru,Mr Bipin Maru', u'Mr Praf
+ul', u'Mr Rajendra Chopra', u'Mr Manij(Advtsg)', u'Mr Hariwala Mudra(Proprietor)
+,MS Leena', u'Mr Subhash']
+phone: [u'+(91)-22-61610691', u'+(91)-22-67625389', u'+(91)-22-61427598', u'+(91
+)-22-67306497', u'+(91)-22-61622092', u'+(91)-22-61637943', u'+(91)-22-61614693'
+, u'+(91)-22-61637859', u'+(91)-(832)-2272125', u'+(91)-22-61611202', u'+(91)-22
+-61428177', u'+(91)-22-61615505', u'+(91)-22-61632596', u'+(91)-(20)-25534324, 2
+5533562', u'+(91)-(22)-26716382, 26714484', u'+(91)-(22)-67911445, 67911446, 276
+26300, 67911456', u'+(91)-(22)-30894570, 30894500', u'+(91)-(22)-24949009, 24924
+144', u'+(91)-(22)-22051828, 22061518', u'+(91)-(22)-66144151 22666764, 22666765
+, 22666767, 66144000', u'+(91)-(22)-22051994, 22066001, 22066002, 22066003', u'+
+(91)-(22)-30418888, 66938695', u'+(91)-(22)-67494748, 22061344, 22181549', u'+(9
+1)-(22)-28886900, 28821703, 28821706']
+add: ['Building No 6 Flat No 701 A Wing,&nbsp;Near M C F Garden Prem Nagar,&nbsp
+;Off S V Road,&nbsp;borivali west,&nbsp;Mumbai - 400092', 'Shop No 95,Chandabhai
+ Building,&nbsp;Near Crawford Market,&nbsp;Lohar Chawl,&nbsp;Kalbadevi,&nbsp;Mum
+bai - 400002', 'Office No 68, Sidhpura Industrial Estate,&nbsp;Near Hallav Pool,
+&nbsp;Masrani Lane,&nbsp;Kurla West,&nbsp;Mumbai - 400070', 'Office No 5 2nd Flo
+or Building F 419,&nbsp;Joshiwadi,&nbsp;Kalbadevi Rd,&nbsp;Kalbadevi,&nbsp;Mumba
+i - 400002', '1ST FLR,Room No 21,Peerbhai Bldg No 2,&nbsp;Pathak Wadi, Lohar Cha
+wl 89,&nbsp;Princess Street,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', '95 Lo
+har Chawl Chandabhai Building,&nbsp;Crawford Market,&nbsp;Mumbai - 400001', '2,S
+indhu Sagar,Kasturi AC Market,&nbsp;Opp Ghanshyam Mall,&nbsp;M P Road,&nbsp;domb
+ivli industrial area,&nbsp;Thane - 421203', '1ST Floor 7 Gopal Niwas,&nbsp;Shama
+ldas Gandhi Marg,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', 'Near ST Anthony
+Church,Church Bazar,&nbsp;Siolim,&nbsp;GOA - 403517', 'Shop No 16 , K L M Center
+ ,&nbsp;Opp Goa Guest Houses,&nbsp;Lamington Rd Grant Rd,Tara Temple Lane,&nbsp;
+Lamington Road,&nbsp;Mumbai - 400004', '111,Ground Floor,Ramji Thakersey Buildin
+g,&nbsp;Near Crowford Market,&nbsp;Lohar Chawl,&nbsp;Lohar Chawl,&nbsp;Mumbai -
+400002', '196,Tegh House Saheed Bhagat Singh Co Operative Housing Society,&nbsp;
+Near J B Nagar,&nbsp;Andheri Kurla Road,&nbsp;Andheri East,&nbsp;Mumbai - 400072
+', '9/A, Bhanukant Complex,&nbsp;Near Aarey Check Naka,&nbsp;Junction Of Aarey R
+oad, Western Express Highway,&nbsp;Goregaon East,&nbsp;Mumbai - 400063', '1342,&
+nbsp;Opp PMC Building,&nbsp;Shivaji Nagar,&nbsp;Pune - 411005', '3 Irla Sadan,&n
+bsp;Near Cooper Hospital Irla,&nbsp;Irla Society Road,&nbsp;Vile Parle West,&nbs
+p;Mumbai - 400056', 'Plot No D/265, Sagar Ratan Industrial Premises,&nbsp;MIDC,&
+nbsp;Thurbe,&nbsp;Navi Mumbai - 400705', 'Akruti Centre 2 ND Floor MIDC Andheri
+East,&nbsp;MIDC,&nbsp;Andheri East,&nbsp;Andheri East,&nbsp;Mumbai - 400093', 'R
+am Ratna House,&nbsp;Victoria Mill Compound,&nbsp;P B Marg,&nbsp;Worli,&nbsp;Mum
+bai - 400018', '135 Tawawala Bldg,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Lax
+mi Buildingg 4th Flr,&nbsp;Shoorji Vallabhdas Marg,&nbsp;Ballard Estate,&nbsp;Mu
+mbai - 400038', '29 Ismail Building Lohar Chawl,&nbsp;Near Crawford Market,&nbsp
+;Pathakwadi,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Marathon Next Zen Innova
+C Wing,&nbsp;Off G Marg,&nbsp;Lower Parel,&nbsp;Mumbai - 400013', '45/47 Sardar
+Griha,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', '4 &amp; 5,SAI Zarukha,&nbsp;Opp
+ Sndt College,&nbsp;Adarsh Society Road,Liberty Garden,&nbsp;Malad West,&nbsp;Mu
+mbai - 400064']
+names: ['Navkar Trading', 'E A Poonawala', 'Kenter Wires &amp; Cables', 'Delight
+ Electro Traders', 'Shreeji Electric Corporation', 'E A Poonawala', 'Sagar Elect
+ronics Dombivili', 'Nitro Enterprise', 'Ashapura Electricals', 'Infoline System'
+, 'Manglik Electricals', 'Tegh Cables PVT LTD', 'Allied Trading Company', 'Jyoti
+ Electricals &amp; Trading Co', 'Nagrik Electric Corporation', 'Vashi Electrical
+s Pvt Ltd', 'Reliance Communication Limited', 'R R Kabel PVT LTD', 'Asian Electr
+icals', 'Cable Corporation Of India Ltd', 'Ajit Cables', 'Anchor Electricals Pvt
+ Ltd', 'N M Electrical', 'Allied Electrical Industries', 'Raychem Rpg LTD (H O)'
+]
+person: [u'Mr Kaplesh Doshi', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr Bh
+avik Vora(Managing Director)', u'Mr Shabbir', u'Mr Kaushal G Somaiya(Partner),Mr
+ Kaushik G Somaiya(Partner)', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr An
+and', u'Mr Tushar Shah(Proprietor)', u'Mr Singh(Owner)', u'Mr Ankur Zaveri(Propr
+ietor)', u'Mr Kumar(Proprietor)', u'Mr Karan,Mr Bunny', u'Mr Sharad Baid(Partner
+),Mr Aashish Baid(Partner)', u'Mr Kishore Ahuja', u'Mr Manoj Shah', u'Mr Madan D
+odeja(Founder)', u'Mr Manoj B Korgaonkar(AGM Sales)', u'Mr Ashok Loya,Mr Zankhan
+a Katira(Manager Corporate Communic', u'Mr Arvind Maru,Mr Bipin Maru', u'Mr Praf
+ul', u'Mr Rajendra Chopra', u'Mr Manij(Advtsg)', u'Mr Hariwala Mudra(Proprietor)
+,MS Leena', u'Mr Subhash', u'Ms Daisy Dotivala / Mr P S Shankar Raman,Mr P Rajgo
+palan']
+phone: [u'+(91)-22-61610691', u'+(91)-22-67625389', u'+(91)-22-61427598', u'+(91
+)-22-67306497', u'+(91)-22-61622092', u'+(91)-22-61637943', u'+(91)-22-61614693'
+, u'+(91)-22-61637859', u'+(91)-(832)-2272125', u'+(91)-22-61611202', u'+(91)-22
+-61428177', u'+(91)-22-61615505', u'+(91)-22-61632596', u'+(91)-(20)-25534324, 2
+5533562', u'+(91)-(22)-26716382, 26714484', u'+(91)-(22)-67911445, 67911446, 276
+26300, 67911456', u'+(91)-(22)-30894570, 30894500', u'+(91)-(22)-24949009, 24924
+144', u'+(91)-(22)-22051828, 22061518', u'+(91)-(22)-66144151 22666764, 22666765
+, 22666767, 66144000', u'+(91)-(22)-22051994, 22066001, 22066002, 22066003', u'+
+(91)-(22)-30418888, 66938695', u'+(91)-(22)-67494748, 22061344, 22181549', u'+(9
+1)-(22)-28886900, 28821703, 28821706', u'+(91)-(22)-24937485, 24937486, 24937487
+']
+add: ['Building No 6 Flat No 701 A Wing,&nbsp;Near M C F Garden Prem Nagar,&nbsp
+;Off S V Road,&nbsp;borivali west,&nbsp;Mumbai - 400092', 'Shop No 95,Chandabhai
+ Building,&nbsp;Near Crawford Market,&nbsp;Lohar Chawl,&nbsp;Kalbadevi,&nbsp;Mum
+bai - 400002', 'Office No 68, Sidhpura Industrial Estate,&nbsp;Near Hallav Pool,
+&nbsp;Masrani Lane,&nbsp;Kurla West,&nbsp;Mumbai - 400070', 'Office No 5 2nd Flo
+or Building F 419,&nbsp;Joshiwadi,&nbsp;Kalbadevi Rd,&nbsp;Kalbadevi,&nbsp;Mumba
+i - 400002', '1ST FLR,Room No 21,Peerbhai Bldg No 2,&nbsp;Pathak Wadi, Lohar Cha
+wl 89,&nbsp;Princess Street,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', '95 Lo
+har Chawl Chandabhai Building,&nbsp;Crawford Market,&nbsp;Mumbai - 400001', '2,S
+indhu Sagar,Kasturi AC Market,&nbsp;Opp Ghanshyam Mall,&nbsp;M P Road,&nbsp;domb
+ivli industrial area,&nbsp;Thane - 421203', '1ST Floor 7 Gopal Niwas,&nbsp;Shama
+ldas Gandhi Marg,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', 'Near ST Anthony
+Church,Church Bazar,&nbsp;Siolim,&nbsp;GOA - 403517', 'Shop No 16 , K L M Center
+ ,&nbsp;Opp Goa Guest Houses,&nbsp;Lamington Rd Grant Rd,Tara Temple Lane,&nbsp;
+Lamington Road,&nbsp;Mumbai - 400004', '111,Ground Floor,Ramji Thakersey Buildin
+g,&nbsp;Near Crowford Market,&nbsp;Lohar Chawl,&nbsp;Lohar Chawl,&nbsp;Mumbai -
+400002', '196,Tegh House Saheed Bhagat Singh Co Operative Housing Society,&nbsp;
+Near J B Nagar,&nbsp;Andheri Kurla Road,&nbsp;Andheri East,&nbsp;Mumbai - 400072
+', '9/A, Bhanukant Complex,&nbsp;Near Aarey Check Naka,&nbsp;Junction Of Aarey R
+oad, Western Express Highway,&nbsp;Goregaon East,&nbsp;Mumbai - 400063', '1342,&
+nbsp;Opp PMC Building,&nbsp;Shivaji Nagar,&nbsp;Pune - 411005', '3 Irla Sadan,&n
+bsp;Near Cooper Hospital Irla,&nbsp;Irla Society Road,&nbsp;Vile Parle West,&nbs
+p;Mumbai - 400056', 'Plot No D/265, Sagar Ratan Industrial Premises,&nbsp;MIDC,&
+nbsp;Thurbe,&nbsp;Navi Mumbai - 400705', 'Akruti Centre 2 ND Floor MIDC Andheri
+East,&nbsp;MIDC,&nbsp;Andheri East,&nbsp;Andheri East,&nbsp;Mumbai - 400093', 'R
+am Ratna House,&nbsp;Victoria Mill Compound,&nbsp;P B Marg,&nbsp;Worli,&nbsp;Mum
+bai - 400018', '135 Tawawala Bldg,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Lax
+mi Buildingg 4th Flr,&nbsp;Shoorji Vallabhdas Marg,&nbsp;Ballard Estate,&nbsp;Mu
+mbai - 400038', '29 Ismail Building Lohar Chawl,&nbsp;Near Crawford Market,&nbsp
+;Pathakwadi,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Marathon Next Zen Innova
+C Wing,&nbsp;Off G Marg,&nbsp;Lower Parel,&nbsp;Mumbai - 400013', '45/47 Sardar
+Griha,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', '4 &amp; 5,SAI Zarukha,&nbsp;Opp
+ Sndt College,&nbsp;Adarsh Society Road,Liberty Garden,&nbsp;Malad West,&nbsp;Mu
+mbai - 400064', 'Ceat Mahal Annexe,&nbsp;469, DR Annie Besant RD,&nbsp;Worli New
+,&nbsp;Mumbai - 400030']
+
+C:\Python27\crawler>python justdial.py
+url:www.justdial.com
+where?mumbai
+what?cable-dealers
+crawling http://www.justdial.com/Mumbai/Cable-dealers
+['http://www.justdial.com/Mumbai/Tegh-Cables-PVT-LTD-&lt;near&gt;-J-B-Nagar-Andh
+eri-East/022PZ008530_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.c
+om/Mumbai/Allied-Trading-Company-&lt;near&gt;-Aarey-Check-Naka-Goregaon-East/022
+PF002509_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/E-
+A-Poonawala-&lt;near&gt;-Crawford-Market-Kalbadevi/022PXX22-XX22-110927130349-C1
+J4_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Kenter-W
+ires-Cables-&lt;near&gt;-Hallav-Pool--Kurla-West/022P1969007_TXVtYmFpIENhYmxlIGR
+lYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Delight-Electro-Traders-&lt;ne
+ar&gt;-Joshiwadi-Kalbadevi/022PW000493_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'htt
+p://www.justdial.com/Mumbai/Shreeji-Electric-Corporation-&lt;near&gt;-Pathak-Wad
+i-Lohar-Chawl-89-PRINCESS-STREET/022PXX22-XX22-100729212531-N4F2_TXVtYmFpIENhYmx
+lIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Ashapura-Electricals-&lt;n
+ear&gt;-Siolim/022PXX22-XX22-111018164037-N6D6_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDE
+T', 'http://www.justdial.com/Mumbai/E-A-Poonawala-&lt;near&gt;-Crawford-Market/0
+22PK041602_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/
+Sagar-Electronics-Dombivili-&lt;near&gt;-Opp-Ghanshyam-Mall-dombivli-industrial-
+area/022PGL02125_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/M
+umbai/Nitro-Enterprise-&lt;near&gt;-PRINCESS-STREET/022P1235388926X1L4D9_TXVtYmF
+pIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Infoline-System-&l
+t;near&gt;-Opp-Goa-Guest-Houses-Lamington-Road/022PXX22-XX22-091209181927-Q3U6_T
+XVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Manglik-Elec
+tricals-&lt;near&gt;-Crowford-Market-Lohar-Chawl/022PK027762_TXVtYmFpIENhYmxlIGR
+lYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Navkar-Trading-&lt;near&gt;-M-
+C-F-Garden-Prem-Nagar-borivali-west/022PXX22-XX22-100717152539-B1N4_TXVtYmFpIENh
+YmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Jyoti-Electricals-Tradi
+ng-Co-&lt;near&gt;-Opp-PMC-Building-Shivaji-Nagar/022PXX20-XX20-111111124051-C8P
+3_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Nagrik-El
+ectric-Corporation-&lt;near&gt;-Cooper-Hospital-Irla-Vile-Parle-West/022P650317_
+TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Vashi-Elect
+ricals-Pvt-Ltd-&lt;near&gt;-MIDC-Thurbe/022P601990_TXVtYmFpIENhYmxlIGRlYWxlcnM=_
+BZDET', 'http://www.justdial.com/Mumbai/Reliance-Communication-Limited-&lt;near&
+gt;-MIDC-Andheri-East/022PXX22-XX22-101101154135-V9P7_TXVtYmFpIENhYmxlIGRlYWxlcn
+M=_BZDET', 'http://www.justdial.com/Mumbai/R-R-Kabel-PVT-LTD-&lt;near&gt;-Victor
+ia-Mill-Compound-Worli/022PXX22-XX22-001220746440-N7M8_TXVtYmFpIENhYmxlIGRlYWxlc
+nM=_BZDET', 'http://www.justdial.com/Mumbai/Asian-Electricals-&lt;near&gt;-Lohar
+-Chawl/022P1008075_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com
+/Mumbai/Cable-Corporation-Of-India-Ltd-&lt;near&gt;-Ballard-Estate/022PK049200_T
+XVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Ajit-Cables-
+&lt;near&gt;-Crawford-Market-Lohar-Chawl/022PK034698_TXVtYmFpIENhYmxlIGRlYWxlcnM
+=_BZDET', 'http://www.justdial.com/Mumbai/Anchor-Electricals-Pvt-Ltd-&lt;near&gt
+;-Lower-Parel/022PGE28198_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET', 'http://www.justd
+ial.com/Mumbai/N-M-Electrical-&lt;near&gt;-Lohar-Chawl/022P5454678_TXVtYmFpIENhY
+mxlIGRlYWxlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Allied-Electrical-Indust
+ries-&lt;near&gt;-Opp-Sndt-College-Malad-West/022PN500635_TXVtYmFpIENhYmxlIGRlYW
+xlcnM=_BZDET', 'http://www.justdial.com/Mumbai/Raychem-Rpg-LTD-(H-O)-&lt;near&gt
+;-Worli-New/022PXX22-XX22-000745428444-Q3Y6_TXVtYmFpIENhYmxlIGRlYWxlcnM=_BZDET']
+
+names: ['Tegh Cables PVT LTD', 'Allied Trading Company', 'E A Poonawala', 'Kente
+r Wires &amp; Cables', 'Delight Electro Traders', 'Shreeji Electric Corporation'
+, 'Ashapura Electricals', 'E A Poonawala', 'Sagar Electronics Dombivili', 'Nitro
+ Enterprise', 'Infoline System', 'Manglik Electricals', 'Navkar Trading', 'Jyoti
+ Electricals &amp; Trading Co', 'Nagrik Electric Corporation', 'Vashi Electrical
+s Pvt Ltd', 'Reliance Communication Limited', 'R R Kabel PVT LTD', 'Asian Electr
+icals', 'Cable Corporation Of India Ltd', 'Ajit Cables', 'Anchor Electricals Pvt
+ Ltd', 'N M Electrical', 'Allied Electrical Industries', 'Raychem Rpg LTD (H O)'
+]
+person: [u'Mr Karan,Mr Bunny', u'Mr Sharad Baid(Partner),Mr Aashish Baid(Partner
+)', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr Bhavik Vora(Managing Directo
+r)', u'Mr Shabbir', u'Mr Kaushal G Somaiya(Partner),Mr Kaushik G Somaiya(Partner
+)', u'Mr Singh(Owner)', u'Mr Hozefa(Partner),Mr Ebrahim(Partner)', u'Mr Anand',
+u'Mr Tushar Shah(Proprietor)', u'Mr Ankur Zaveri(Proprietor)', u'Mr Kumar(Propri
+etor)', u'Mr Kaplesh Doshi', u'Mr Kishore Ahuja', u'Mr Manoj Shah', u'Mr Madan D
+odeja(Founder)', u'Mr Manoj B Korgaonkar(AGM Sales)', u'Mr Ashok Loya,Mr Zankhan
+a Katira(Manager Corporate Communic', u'Mr Arvind Maru,Mr Bipin Maru', u'Mr Praf
+ul', u'Mr Rajendra Chopra', u'Mr Manij(Advtsg)', u'Mr Hariwala Mudra(Proprietor)
+,MS Leena', u'Mr Subhash', u'Ms Daisy Dotivala / Mr P S Shankar Raman,Mr P Rajgo
+palan']
+phone: [u'+(91)-22-61615505', u'+(91)-22-61632596', u'+(91)-22-67625389', u'+(91
+)-22-61427598', u'+(91)-22-67306497', u'+(91)-22-61622092', u'+(91)-(832)-227212
+5', u'+(91)-22-61637943', u'+(91)-22-61614693', u'+(91)-22-61637859', u'+(91)-22
+-61611202', u'+(91)-22-61428177', u'+(91)-22-61610691', u'+(91)-(20)-25534324, 2
+5533562', u'+(91)-(22)-26716382, 26714484', u'+(91)-(22)-67911445, 67911446, 276
+26300, 67911456', u'+(91)-(22)-30894570, 30894500', u'+(91)-(22)-24949009, 24924
+144', u'+(91)-(22)-22051828, 22061518', u'+(91)-(22)-66144151 22666764, 22666765
+, 22666767, 66144000', u'+(91)-(22)-22051994, 22066001, 22066002, 22066003', u'+
+(91)-(22)-30418888, 66938695', u'+(91)-(22)-67494748, 22061344, 22181549', u'+(9
+1)-(22)-28886900, 28821703, 28821706', u'+(91)-(22)-24937485, 24937486, 24937487
+']
+add: ['196,Tegh House Saheed Bhagat Singh Co Operative Housing Society,&nbsp;Nea
+r J B Nagar,&nbsp;Andheri Kurla Road,&nbsp;Andheri East,&nbsp;Mumbai - 400072',
+'9/A, Bhanukant Complex,&nbsp;Near Aarey Check Naka,&nbsp;Junction Of Aarey Road
+, Western Express Highway,&nbsp;Goregaon East,&nbsp;Mumbai - 400063', 'Shop No 9
+5,Chandabhai Building,&nbsp;Near Crawford Market,&nbsp;Lohar Chawl,&nbsp;Kalbade
+vi,&nbsp;Mumbai - 400002', 'Office No 68, Sidhpura Industrial Estate,&nbsp;Near
+Hallav Pool,&nbsp;Masrani Lane,&nbsp;Kurla West,&nbsp;Mumbai - 400070', 'Office
+No 5 2nd Floor Building F 419,&nbsp;Joshiwadi,&nbsp;Kalbadevi Rd,&nbsp;Kalbadevi
+,&nbsp;Mumbai - 400002', '1ST FLR,Room No 21,Peerbhai Bldg No 2,&nbsp;Pathak Wad
+i, Lohar Chawl 89,&nbsp;Princess Street,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400
+002', 'Near ST Anthony Church,Church Bazar,&nbsp;Siolim,&nbsp;GOA - 403517', '95
+ Lohar Chawl Chandabhai Building,&nbsp;Crawford Market,&nbsp;Mumbai - 400001', '
+2,Sindhu Sagar,Kasturi AC Market,&nbsp;Opp Ghanshyam Mall,&nbsp;M P Road,&nbsp;d
+ombivli industrial area,&nbsp;Thane - 421203', '1ST Floor 7 Gopal Niwas,&nbsp;Sh
+amaldas Gandhi Marg,&nbsp;PRINCESS STREET,&nbsp;Mumbai - 400002', 'Shop No 16 ,
+K L M Center ,&nbsp;Opp Goa Guest Houses,&nbsp;Lamington Rd Grant Rd,Tara Temple
+ Lane,&nbsp;Lamington Road,&nbsp;Mumbai - 400004', '111,Ground Floor,Ramji Thake
+rsey Building,&nbsp;Near Crowford Market,&nbsp;Lohar Chawl,&nbsp;Lohar Chawl,&nb
+sp;Mumbai - 400002', 'Building No 6 Flat No 701 A Wing,&nbsp;Near M C F Garden P
+rem Nagar,&nbsp;Off S V Road,&nbsp;borivali west,&nbsp;Mumbai - 400092', '1342,&
+nbsp;Opp PMC Building,&nbsp;Shivaji Nagar,&nbsp;Pune - 411005', '3 Irla Sadan,&n
+bsp;Near Cooper Hospital Irla,&nbsp;Irla Society Road,&nbsp;Vile Parle West,&nbs
+p;Mumbai - 400056', 'Plot No D/265, Sagar Ratan Industrial Premises,&nbsp;MIDC,&
+nbsp;Thurbe,&nbsp;Navi Mumbai - 400705', 'Akruti Centre 2 ND Floor MIDC Andheri
+East,&nbsp;MIDC,&nbsp;Andheri East,&nbsp;Andheri East,&nbsp;Mumbai - 400093', 'R
+am Ratna House,&nbsp;Victoria Mill Compound,&nbsp;P B Marg,&nbsp;Worli,&nbsp;Mum
+bai - 400018', '135 Tawawala Bldg,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Lax
+mi Buildingg 4th Flr,&nbsp;Shoorji Vallabhdas Marg,&nbsp;Ballard Estate,&nbsp;Mu
+mbai - 400038', '29 Ismail Building Lohar Chawl,&nbsp;Near Crawford Market,&nbsp
+;Pathakwadi,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', 'Marathon Next Zen Innova
+C Wing,&nbsp;Off G Marg,&nbsp;Lower Parel,&nbsp;Mumbai - 400013', '45/47 Sardar
+Griha,&nbsp;Lohar Chawl,&nbsp;Mumbai - 400002', '4 &amp; 5,SAI Zarukha,&nbsp;Opp
+ Sndt College,&nbsp;Adarsh Society Road,Liberty Garden,&nbsp;Malad West,&nbsp;Mu
+mbai - 400064', 'Ceat Mahal Annexe,&nbsp;469, DR Annie Besant RD,&nbsp;Worli New
+,&nbsp;Mumbai - 400030']
 
