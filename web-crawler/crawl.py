@@ -50,9 +50,9 @@ def get_add(soup):
     return add
 
 if __name__=='__main__':
-    listing=raw_input("url:")
-    where=raw_input("where?")
-    what=raw_input("what?")
+    listing="www.justdial.com"
+    where=raw_input("City: ")
+    what=raw_input("Category: ")
     url=get_start_url(listing)
    
     name=[]
@@ -74,13 +74,6 @@ if __name__=='__main__':
         for i in get_add(soup):
             add.append(i)
         url=get_next_link(msg)
-"""
-    print "names:",name
-    print "person:",person
-    print "phone:",phone
-    print "add:",add
-"""
-
     book=xlwt.Workbook()
     sheet1=book.add_sheet('sheet1')
     index=['NAME','PHONE','ADDRESS']
