@@ -1,14 +1,13 @@
 import socket 
 import sys 
 
-host = 'localhost' 
-port = 8000 
+
 size = 1024 
 client= socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
-client.connect((host,port))
+client.connect(('',8000))  #Leaving the host part blank means 'localhost'
 print client.getsockname()	
 print '%'
-data=''
+
 name=''
 while 1:
         # read from keyboard
@@ -24,3 +23,5 @@ while 1:
                 if data:
                         print data,'%'
 client.close()
+
+
